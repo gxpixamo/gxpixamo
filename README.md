@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Im a Pixel Artist and I like to make games. Currently, I'm learninng those. I hope so I will be able to do something for the gaming community and make players even happer
+### Im a Pixel Artist and I like to make games. Currently, I'm learninng those. I hope so I will be able to do something for the gaming community and make players even happier
 <!--
 **gxpixamo/gxpixamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
