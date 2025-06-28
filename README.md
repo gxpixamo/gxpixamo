@@ -10,10 +10,6 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 
-<picture>
-  <img align="right" src="https://raw.githubusercontent.com/gxpixamo/assets/avatar.png" width="220px">
-</picture>
-
 - 🎨 Pixel artist & indie game developer
 - ⚙️ Experienced with GDScript and Godot Engine
 - 🕹️ Creating platformers & top-down 2D games (learning 3D!)
