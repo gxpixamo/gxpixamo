@@ -7,7 +7,8 @@
 </p>
 
 <br>
-**About Me**
+
+## **About Me**
 
 - 🎨 Pixel artist & indie game developer
 - ⚙️ Experienced with GDScript and Godot Engine
