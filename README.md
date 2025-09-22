@@ -34,7 +34,6 @@
 - **Game Engines**
 
   ![Godot](https://img.shields.io/badge/Godot-8CC7FF?style=for-the-badge&logo=godot-engine&logoColor=white)
-  ![Unity (learning)](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white)
 
 - **Art & Assets**
 
