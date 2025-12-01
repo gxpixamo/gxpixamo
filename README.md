@@ -1,10 +1,7 @@
 <h1 align="center"><b>Hi, I'm GxPixamo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/195267090?s=400&u=148c1850806790ec902d4b8e7f47646c536adf61&v=4" width="100%" />
-</p>
 
-<h1 align="center">✨ Hi, I'm <span style="color:#4CA3FF;">Gxpixamo</span> ✨</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CA3FF&center=true&vCenter=true&width=600&lines=Pixel+Artist;Blockbench+Modeler;Minecraft+Developer;Learning+Game+Dev+with+Godot;Future+Java+%2F+C%2B%2B+%2F+Lua+Coder" />
