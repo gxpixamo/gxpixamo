@@ -1,71 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gxpixamo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Celest%20Network%20Owner%2C%20Minecraft%20Server%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<h2 align="left">Hi 👋! My name is Gxpixamo and I'm a developer from Volvox Studio</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=3687FF&center=true&vCenter=true&width=650&lines=You%20can%20not%20change%20the%20past.;But%20you%20can%20shape%20the%20future;Never%20give%20up%20on%20your%20goals.;Because%20failure%20is%20the%20pillar%20of%20success." alt="Typing introduction" />
-</p>
+###
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=gxpixamo">
-    <img src="https://komarev.com/ghpvc/?username=gxpixamo&label=Profile%20views&color=00FFFF&style=flat-square" alt="gxpixamo's profile views" />
-  </a>
-</p>
+<p align="left">- Basic Modeler<br>- Ui/Ux Designer<br>- Love Pixel Art</p>
 
-<img corner-radius="100px" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- Hi! I am Gxpixamo. My real name is Aditya Majumder. I am a minecraft server developer as well as a game developer. I am currently owning the Celest Network. My main goal is to be a software developer in Microsoft. I hope so I can achieve my goal.
-
-
-## 🧠 My Focus Areas
-- Minecraft Server Developer
-- Godot Game Developer
-- Future Software Engineer
-- Developing Celest Network
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gxpixamo&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=gxpixamo&theme=radical&hide_border=true&cache_seconds=86400" alt="gxpixamo's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gxpixamo&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Gxpixamo's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=gxpixamo&theme=radical&radius=10" alt="gxpixamo's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs" />
-</p>
-
-> ## Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,apple" />
-</p>
-
-> ## Tools
-<br>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,java,figma,vscode,github,git,apple" />
-</p>
-<br>
-<br>
-
-
-
-## 🔗 Connect with Me
-<p align="center"> <a href="https://youtube.com/@gxpixamo" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:gxyt065@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://gxpixamo.ct.ws" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+###
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gxpixamo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gxpixamo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://giffiles.alphacoders.com/215/215373.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@gxpixamo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/gxpixamo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gxpixamo/gxpixamo/output/snake.svg" alt="Snake animation" />
+
+###
